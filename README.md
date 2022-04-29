@@ -50,7 +50,7 @@ Comentarios.
 
 ## Comentarios.
 
-> *"Argentum es muy fiable sobre todo en atención al cliente, y respuesta rápida. Da gusto!! Yo personalmente compro cosas de todo tipo. Ya es por costumbre. Lo que si es cierto es que jamás te dejan tirado y siempre te ayudan, ante cualquier problema. Cualquiero cosa que compro, lo recibo en mi casa, al dia siguiente. Viva Argentum!! :heart: :heart: :heart:"* - **Luciana Arochena** 
+> *"Argentum es muy fiable sobre todo en atención al cliente, y respuesta rápida. Da gusto!! Yo personalmente compro cosas de todo tipo. Ya es por costumbre. Lo que si es cierto es que jamás te dejan tirado y siempre te ayudan, ante cualquier problema. Cualquier cosa que compro, lo recibo en mi casa, al dia siguiente. Viva Argentum!! :heart: :heart: :heart:"* - **Luciana Arochena** 
 
 > *"He hecho muchas compras en esta tienda, y aunque he tenido problemas alguna que otra vez, siempre me han resulto el problema rápido y eficazmente la recomiendo al 100%. Como anécdota, en un una ocasión, tuve un problema con un equipo de sonido tras 18 meses, y al no tener fácil arreglo, me devolvieron el dinero, todo el dinero. ¿Quien mas hace eso mas que Argentum?"* - **Victor Ramos**
 
