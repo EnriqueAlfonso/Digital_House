@@ -6,11 +6,7 @@ Comentarios.
     "margin: 0;
     padding: 0;
     text-align: center;
-    text-decoration: none;
-    color: darkcyan;
-    font-size: 50px;
-    font-weight: light;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">
+    color: darkcyan;">
 Argentum
 </h1>
 
