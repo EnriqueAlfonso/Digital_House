@@ -2,38 +2,37 @@
 Comentarios.
 -->
 
-<h1 style= "margin: 0; padding: 0; text-align: center; color: darkcyan;">
-Argentum
-</h1>
+![Logo](./Icon%20by%20Chanut%20is%20Industries%20on%20freeicons.io.png "Icon by Chanut is Industries on freeicons.io")
 
-<!--
-<style>
-#Titulo1{
-
-    margin: 0;
-    padding: 0;
-    text-align: center;
-    text-decoration: none;
-    color: darkcyan;
-    font-size: 50px;
-    font-weight: light;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-
-}
-</style>
--->
-
-## Descripcion.
-
-**Argentum,** *es una empresa de Argentina, de comercio electronico, fundada en el año 2010, en la ciudad Rosario, provincia Santa Fe.*
-
-*Esta empresa, esta dedicada a la venta de productos electronicos.*
+# Argentum
 
 *"Si existe, lo tenemos."*
 
 --- 
 
+## Descripcion.
+
+*Es una empresa de Argentina, de comercio electronico, fundada en el año 2010, en la ciudad de Rosario, provincia de Santa Fe.*
+
+*Esta empresa, esta dedicada a la venta de productos electronicos.*
+
+*Te brindamos:*
+
+* gran variedad de productos
+* gran variedad de marcas
+    * nacionales
+    * extranjeras
+* precios razonables 
+* seguridad web
+* garantia 5 años
+
+--- 
+
 ## Sucursales.
+
+**Provincia, Buenos Aires:** *CABA*
+
+**Provincia, Santa Fe:** *Rosario*
 
 --- 
 
@@ -51,17 +50,11 @@ Argentum
 
 ## Comentarios.
 
-> *"Amazon es muy fiable sobre todo en atención al cliente, y respuesta rápida. Da gusto!!*
-*Yo personalmente compro cosas de todo tipo. Ya es por costumbre. Lo que si es cierto es que jamás te dejan tirado y siempre te ayudan, ante cualquier problema.* 
-*Viva Amazon!! :heart: :heart: :heart:"* - **Sergio Pamplona**
+> *"Argentum es muy fiable sobre todo en atención al cliente, y respuesta rápida. Da gusto!! Yo personalmente compro cosas de todo tipo. Ya es por costumbre. Lo que si es cierto es que jamás te dejan tirado y siempre te ayudan, ante cualquier problema. Cualquiero cosa que compro, lo recibo en mi casa, al dia siguiente. Viva Argentum!! :heart: :heart: :heart:"* - **Luciana Arochena** 
 
-> *"He hecho muchas compras en esta tienda, y aunque he tenido problemas alguna que otra vez, siempre me han resulto el problema rápido y eficazmente la recomiendo al 100%.*
-*Como anécdota, en un una ocasión, tuve un problema con un equipo de sonido tras 18 meses, y al no tener fácil arreglo, me devolvieron el dinero, todo el dinero.* 
-*¿Quien mas hace eso mas que Argentum?"* - **Victor Ramos**
+> *"He hecho muchas compras en esta tienda, y aunque he tenido problemas alguna que otra vez, siempre me han resulto el problema rápido y eficazmente la recomiendo al 100%. Como anécdota, en un una ocasión, tuve un problema con un equipo de sonido tras 18 meses, y al no tener fácil arreglo, me devolvieron el dinero, todo el dinero. ¿Quien mas hace eso mas que Argentum?"* - **Victor Ramos**
 
-> *"Llevo desde 2018 como cliente, en ese año hice 7 pedidos, en 2021 hice 279 pedidos, y la verdad es que estoy muy satisfecho. Muy pocas veces he tenido que devolver algo por mala calidad, y siempre me han atendido rápidamente.* 
-*Te atienden rápido, te devuelven el dinero, y cada vez encuentras más productos, a mejor precio y con entregas de un día para otro.*
-*Si pides factura te la dan, en fin, sin problemas"* - **Luciana Arochena**
+> *"En Argentum, Llevo desde 2018 como cliente, en ese año hice 7 pedidos, en 2021 hice 219 pedidos, y la verdad es que estoy muy satisfecho. Muy pocas veces he tenido que devolver algo por mala calidad, y siempre me han atendido rápidamente. Te atienden rápido, te devuelven el dinero, y cada vez encuentras más productos, a mejor precio y con entregas de un día para otro. Si pides factura te la dan, en fin, sin problemas"* - **Sergio Pamplona**
 
 ---
 
