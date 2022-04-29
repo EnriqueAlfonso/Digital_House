@@ -27,7 +27,7 @@ Argentum
 
 **Argentum,** *es una empresa de Argentina, de comercio electronico, fundada en el año 2010, en la ciudad Rosario, provincia Santa Fe.*
 
-Esta empresa, esta dedicada a la venta de productos electronicos.
+*Esta empresa, esta dedicada a la venta de productos electronicos.*
 
 *"Si existe, lo tenemos."*
 
@@ -51,6 +51,16 @@ Esta empresa, esta dedicada a la venta de productos electronicos.
 
 ## Comentarios.
 
+> *"Amazon es fiable al 1000% sobre todo en atención al cliente, y respuesta rápida!*
+*Da gusto!* 
+*Yo personalmente compro cosas de todo tipo. Ya es por costumbre. Lo que si es cierto es que jamás te dejan tirado y siempre te ayudan, ante cualquier problema!* 
+*Viva Amazon! :heart: :heart: :heart:"* - **Sergio Pamplona**
+
+> *"He hecho muchas compras en esta tienda, y aunque he tenido problemas alguna que otra vez, siempre me han resulto el problema rápido y eficazmente la recomiendo al 100%.*
+*Como anécdota, en un una ocasión, tuve un problema con un equipo de sonido tras 18 meses, y al no tener fácil arreglo, me devolvieron el dinero, todo el dinero.* 
+*Quien mas hace eso mas que Argentum."* - **Victor Ramos**
+
+> 
 --- 
 
 ## Modelos.
