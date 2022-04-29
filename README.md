@@ -2,6 +2,8 @@
 Comentarios.
 -->
 
+<h1 id= "Titulo1">Argentum</h1>
+
 <style>
 #Titulo1{
 
@@ -16,8 +18,6 @@ Comentarios.
 
 }
 </style>
-
-<h1 id= "Titulo1">Argentum</h1>
 
 ## Descripcion.
 
