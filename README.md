@@ -2,14 +2,11 @@
 Comentarios.
 -->
 
-<h1 style= 
-    "margin: 0;
-    padding: 0;
-    text-align: center;
-    color: darkcyan;">
+<h1 style= "margin: 0; padding: 0; text-align: center; color: darkcyan;">
 Argentum
 </h1>
 
+<!--
 <style>
 #Titulo1{
 
@@ -24,6 +21,7 @@ Argentum
 
 }
 </style>
+-->
 
 ## Descripcion.
 
