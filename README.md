@@ -51,16 +51,18 @@ Argentum
 
 ## Comentarios.
 
-> *"Amazon es fiable al 1000% sobre todo en atención al cliente, y respuesta rápida!*
-*Da gusto!* 
-*Yo personalmente compro cosas de todo tipo. Ya es por costumbre. Lo que si es cierto es que jamás te dejan tirado y siempre te ayudan, ante cualquier problema!* 
-*Viva Amazon! :heart: :heart: :heart:"* - **Sergio Pamplona**
+> *"Amazon es muy fiable sobre todo en atención al cliente, y respuesta rápida. Da gusto!!*
+*Yo personalmente compro cosas de todo tipo. Ya es por costumbre. Lo que si es cierto es que jamás te dejan tirado y siempre te ayudan, ante cualquier problema.* 
+*Viva Amazon!! :heart: :heart: :heart:"* - **Sergio Pamplona**
 
 > *"He hecho muchas compras en esta tienda, y aunque he tenido problemas alguna que otra vez, siempre me han resulto el problema rápido y eficazmente la recomiendo al 100%.*
 *Como anécdota, en un una ocasión, tuve un problema con un equipo de sonido tras 18 meses, y al no tener fácil arreglo, me devolvieron el dinero, todo el dinero.* 
-*Quien mas hace eso mas que Argentum."* - **Victor Ramos**
+*¿Quien mas hace eso mas que Argentum?"* - **Victor Ramos**
 
-> 
---- 
+> *"Llevo desde 2018 como cliente, en ese año hice 7 pedidos, en 2021 hice 279 pedidos, y la verdad es que estoy muy satisfecho. Muy pocas veces he tenido que devolver algo por mala calidad, y siempre me han atendido rápidamente.* 
+*Te atienden rápido, te devuelven el dinero, y cada vez encuentras más productos, a mejor precio y con entregas de un día para otro.*
+*Si pides factura te la dan, en fin, sin problemas"* - **Luciana Arochena**
+
+---
 
 ## Modelos.
