@@ -2,7 +2,22 @@
 Comentarios.
 -->
 
-# Argentum
+<style>
+#Titulo1{
+
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    text-decoration: none;
+    color: darkcyan;
+    font-size: 50px;
+    font-weight: light;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+</style>
+
+<h1 id= "Titulo1">Argentum</h1>
 
 ## Descripcion.
 
