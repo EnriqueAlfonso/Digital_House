@@ -99,19 +99,3 @@ https://www.mercadolibre.com/
 [^1]: Av. Acoyte, 688.
 
 [^2]: Av. Siempreviva, 742.
-
-<style>
-
-.hi {
-    /*  
-    background: linear-gradient(225deg, lightpink, lightblue);
-    border: thick dotted purple;
-    */
-    color: darkred;
-} 
-
-</style>
-
-And then use it in your email something like this:
-
-Happy <span class="hi">HAPP Birthday</span> my friend!
