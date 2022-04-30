@@ -92,6 +92,6 @@ https://www.mercadolibre.com/
 
 --- 
 
-[^1]Av. Acoyte, 688.
+[^1]: Av. Acoyte, 688.
 
-[^2]Av. Siempreviva, 742.
+[^2]: Av. Siempreviva, 742.
