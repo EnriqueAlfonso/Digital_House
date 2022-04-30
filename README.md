@@ -64,4 +64,24 @@ Comentarios.
 
 ---
 
-## Modelos.
+## Sitios Web de referencia.
+
+**Por productos/servicios.**
+
+https://www.fravega.com/
+
+https://www.garbarino.com/
+
+https://www.musimundo.com/
+
+**Por diseño.**
+
+https://comunidadcoderhouse.com/
+
+https://www.austral3d.com.ar/
+
+**Por robustez en el mercado.**
+
+https://www.amazon.com/
+
+https://www.mercadolibre.com/
