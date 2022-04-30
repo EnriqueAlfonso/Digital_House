@@ -1,8 +1,10 @@
 <!--
-Comentarios.
+![Logo](./Icon%20by%20Chanut%20is%20Industries%20on%20freeicons.io.png "Icon by Chanut is Industries on freeicons.io")
 -->
 
-![Logo](./Icon%20by%20Chanut%20is%20Industries%20on%20freeicons.io.png "Icon by Chanut is Industries on freeicons.io")
+<div align= "center">
+    <img src= "./Icon by Chanut is Industries on freeicons.io.png" alt= "Logo">
+</div>
 
 # Argentum
 
