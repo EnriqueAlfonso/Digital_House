@@ -30,9 +30,9 @@ Comentarios.
 
 ## Sucursales.
 
-**Provincia, Buenos Aires:** *CABA.*
+**Provincia, Buenos Aires:** *CABA.*[^1]
 
-**Provincia, Santa Fe:** *Rosario.*
+**Provincia, Santa Fe:** *Rosario.*[^2]
 
 **Envios sin cargo:**
 
@@ -85,3 +85,9 @@ https://www.austral3d.com.ar/
 https://www.amazon.com/
 
 https://www.mercadolibre.com/
+
+--- 
+
+[^1]*Av. Acoyte, 688.*
+
+[^2]*Av. Siempreviva, 742.*
