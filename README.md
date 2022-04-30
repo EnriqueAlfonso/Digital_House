@@ -40,6 +40,14 @@ Comentarios.
 - Resto del pais
     - Compras superiores de $10 mil (Pesos Argentinos)
 
+<!-- 
+```diff
++ CABA & Rosario
+- Resto del pais
+    - Compras superiores de $10 mil (Pesos Argentinos)
+```
+-->
+
 --- 
 
 ## Fundadores.
