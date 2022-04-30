@@ -30,9 +30,15 @@ Comentarios.
 
 ## Sucursales.
 
-**Provincia, Buenos Aires:** *CABA*
+**Provincia, Buenos Aires:** *CABA.*
 
-**Provincia, Santa Fe:** *Rosario*
+**Provincia, Santa Fe:** *Rosario.*
+
+**Envios sin cargo:**
+
+* CABA & Rosario
+* Resto del pais
+    * Compras superiores de $10 mil (Pesos Argentinos)
 
 --- 
 
