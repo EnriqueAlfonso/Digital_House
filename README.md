@@ -18,13 +18,13 @@ Comentarios.
 
 *Te brindamos:*
 
-* gran variedad de productos
-* gran variedad de marcas
-    * nacionales
-    * extranjeras
-* precios razonables 
-* seguridad web
-* garantia 5 años
+- gran variedad de productos
+- gran variedad de marcas
+    - nacionales
+    - extranjeras
+- precios razonables 
+- seguridad web
+- garantia 5 años
 
 --- 
 
@@ -36,9 +36,9 @@ Comentarios.
 
 **Envios sin cargo:**
 
-* CABA & Rosario
-* Resto del pais
-    * Compras superiores de $10 mil (Pesos Argentinos)
+- CABA & Rosario
+- Resto del pais
+    - Compras superiores de $10 mil (Pesos Argentinos)
 
 --- 
 
