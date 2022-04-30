@@ -30,9 +30,9 @@ Comentarios.
 
 ## Sucursales.
 
-**Provincia, Buenos Aires:** CABA.[^1]
+**Provincia, Buenos Aires:** CABA[^1].
 
-**Provincia, Santa Fe:** Rosario.[^2]
+**Provincia, Santa Fe:** Rosario[^2].
 
 **Envios sin cargo:**
 
