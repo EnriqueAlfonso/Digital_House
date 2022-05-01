@@ -3,7 +3,9 @@
 -->
 
 <div align= "center">
-    <img src= "./Icon by Chanut is Industries on freeicons.io.png" alt= "Logo">
+    <a href= "#">
+        <img src= "./Icon by Chanut is Industries on freeicons.io.png" alt= "Logo">
+    </a>
 </div>
 
 # Argentum
@@ -32,9 +34,9 @@
 
 ## Sucursales.
 
-**Provincia, Buenos Aires:** CABA[^1].
+**Provincia, Buenos Aires:** CABA[^1]
 
-**Provincia, Santa Fe:** Rosario[^2].
+**Provincia, Santa Fe:** Rosario[^2]
 
 **Envios sin cargo:**
 
