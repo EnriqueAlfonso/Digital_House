@@ -4,7 +4,7 @@
 
 <div align= "center">
     <a href= "#">
-        <img src= "./Icon by Chanut is Industries on freeicons.io.png" alt= "Logo">
+        <img src= "./Logo_final_horizontal.png" alt= "Logo">
     </a>
 </div>
 
