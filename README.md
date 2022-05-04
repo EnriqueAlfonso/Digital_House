@@ -4,7 +4,7 @@
 
 <div align= "center">
     <a href= "#">
-        <img src= "./Logo_final_horizontal.png" alt= "Logo">
+        <img src= "./Logo_Argentum.jpg" alt= "Logo">
     </a>
 </div>
 
