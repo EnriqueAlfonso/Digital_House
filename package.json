@@ -1,0 +1,20 @@
+{
+    "name": "digital_house",
+    "version": "1.0.0",
+    "description": "Mi E-Commerce.",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/EnriqueAlfonso/Digital_House.git"
+    },
+    "author": "Lema, Enrique Alfonso.",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/EnriqueAlfonso/Digital_House/issues"
+    },
+    "homepage": "https://github.com/EnriqueAlfonso/Digital_House#readme"
+}
