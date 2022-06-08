@@ -4,6 +4,16 @@
     box-sizing: border-box;
 }
 
-.body_index {
+.body {
     background-color: Silver;
+}
+
+.main_index {
+    width: 90%;
+    height: 1000px;
+    margin: 0px auto;
+}
+
+.border {
+    border: 1px solid Black;
 }
