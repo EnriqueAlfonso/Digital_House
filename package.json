@@ -16,5 +16,8 @@
     "bugs": {
         "url": "https://github.com/EnriqueAlfonso/Digital_House/issues"
     },
-    "homepage": "https://github.com/EnriqueAlfonso/Digital_House#readme"
+    "homepage": "https://github.com/EnriqueAlfonso/Digital_House#readme",
+    "dependencies": {
+        "express": "^4.18.1"
+    }
 }
