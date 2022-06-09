@@ -32,8 +32,8 @@ app.get("/product", (req, res) => {
     res.sendFile(path_product);
 });
 
-app.get("/pay", (req, res) => {
-    let path_pay = path.resolve(__dirname, "./views/pay.html");
+app.get("/basket", (req, res) => {
+    let path_basket = path.resolve(__dirname, "./views/basket.html");
 
-    res.sendFile(path_pay);
+    res.sendFile(path_basket);
 });
