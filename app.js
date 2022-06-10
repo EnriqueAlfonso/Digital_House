@@ -1,6 +1,11 @@
 const fs = require("fs");
 const express = require("express");
 const path = require("path");
+const indexController = require("./controllers/indexController");
+const productController = require("./controllers/productController");
+const subscribeController = require("./controllers/subscribeController");
+const loginController = require("./controllers/loginController");
+const basketController = require("./controllers/basketController");
 const app = express();
 const path_public = path.resolve("./public");
 
@@ -8,11 +13,7 @@ app.listen(3000, console.log("Port: 3000"));
 
 app.use(express.static(path_public));
 
-app.get("/", (req, res) => {
-    let path_index = path.resolve(__dirname, "./views/index.html");
-
-    res.sendFile(path_index);
-});
+app.get("/", indexController.print);
 
 app.get("/subscribe", (req, res) => {
     let path_subscribe = path.resolve(__dirname, "./views/subscribe.html");
