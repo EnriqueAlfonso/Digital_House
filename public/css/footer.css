@@ -12,7 +12,6 @@
     align-items: center;
     width: 100%;
     height: auto;
-    padding: 10px 0px;
     background-color: Cadetblue;
 }
 
@@ -21,7 +20,6 @@
 .last_03 {
     width: 90%;
     height: 100px;
-    margin: 10px 0px;
     background-color: rgb(10, 70, 75);
 }
 
@@ -32,16 +30,49 @@
 }
 
 @media all and (min-width: 300px) and (max-width: 750px) {
+    .last_01,
+    .last_02,
+    .last_03 {
+        margin: 10px 0px;
+    }
 }
 
 @media all and (min-width: 751px) and (max-width: 1200px) {
     .footer {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: center;
+        width: 100%;
         height: 200px;
+    }
+
+    .last_01,
+    .last_02,
+    .last_03 {
+        width: 30%;
+        height: 100px;
+        background-color: rgb(10, 70, 75);
     }
 }
 
 @media all and (min-width: 1201px) {
     .footer {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: center;
+        width: 100%;
         height: 200px;
+    }
+
+    .last_01,
+    .last_02,
+    .last_03 {
+        width: 30%;
+        height: 100px;
+        background-color: rgb(10, 70, 75);
     }
 }
