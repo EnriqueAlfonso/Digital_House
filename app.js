@@ -1,13 +1,15 @@
 const fs = require("fs");
 const express = require("express");
+const app = express();
+
 const path = require("path");
+const path_public = path.resolve("./public");
+
 const indexController = require("./controllers/indexController");
 const productController = require("./controllers/productController");
 const subscribeController = require("./controllers/subscribeController");
 const loginController = require("./controllers/loginController");
 const basketController = require("./controllers/basketController");
-const app = express();
-const path_public = path.resolve("./public");
 
 app.listen(3000, console.log("Port: 3000"));
 
