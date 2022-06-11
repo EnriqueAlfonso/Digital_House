@@ -22,14 +22,13 @@
     height: 50px;
     font-size: 15px;
     font-weight: 400;
-    color: White;
 }
 
 .section_nav {
     display: inline-block;
     width: 100%;
     height: 100px;
-    background-color: Burlywood;
+    background-color: White;
 }
 
 .nav {
@@ -49,7 +48,6 @@
     align-items: center;
     width: 50%;
     height: 100px;
-    background-color: White;
 }
 
 .imagen {
@@ -60,7 +58,6 @@
 .nav_right {
     width: 50%;
     height: 100px;
-
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -71,6 +68,7 @@
 .box_search {
     width: 100%;
     height: 50px;
+    background-color: Burlywood;
 }
 
 .form_search {
@@ -182,6 +180,7 @@
 
     .logo {
         width: 100%;
+        height: 100px;
     }
 
     .nav_right {
@@ -197,13 +196,11 @@
     .header {
         width: 100%;
         height: 100px;
-        background-color: White;
     }
 
     .section_nav {
         width: 100%;
         height: 100px;
-        background-color: Burlywood;
     }
 
     .nav {
@@ -232,7 +229,6 @@
         width: 70%;
         height: 50px;
         margin: 0px;
-        background-color: Darkseagreen;
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
@@ -299,13 +295,11 @@
     .header {
         width: 100%;
         height: 100px;
-        background-color: White;
     }
 
     .section_nav {
         width: 100%;
         height: 100px;
-        background-color: Burlywood;
     }
 
     .nav {
@@ -334,7 +328,6 @@
         width: 70%;
         height: 50px;
         margin: 0px;
-        background-color: Darkseagreen;
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
