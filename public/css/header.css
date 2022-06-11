@@ -8,6 +8,21 @@
     width: 100%;
     height: 100px;
     background-color: White;
+    font-family: "Roboto", sans-serif;
+}
+
+.flex_01 {
+    display: block;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 50px;
+    font-size: 15px;
+    font-weight: 400;
+    color: White;
 }
 
 .section_nav {
@@ -82,11 +97,16 @@
     border: 1px solid Silver;
 }
 
-/*
-                            <form action="" method="post" class="form_search">
-                                <input type="search" name="" id="" class="search">
-                            </form>
-*/
+.fa-basket-shopping,
+.fa-user {
+    display: block;
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+    font-size: 20px;
+    color: White;
+}
+
 .menu {
     display: flex;
     flex-direction: row;
@@ -108,18 +128,7 @@
 .ul_02,
 .ul_03 {
     display: none;
-}
-
-.ul {
     background-color: Burlywood;
-}
-
-.ul_02 {
-    background-color: Darkseagreen;
-}
-
-.ul_03 {
-    background-color: rgb(110, 110, 255);
 }
 
 @media all and (max-width: 299px) {
@@ -162,12 +171,12 @@
     }
 
     .box_search {
-        width: 75%;
+        width: 70%;
     }
 
     .menu {
         display: inline-block;
-        width: 75%;
+        width: 70%;
         height: 50px;
         margin: 0px;
         background-color: Darkseagreen;
@@ -197,35 +206,39 @@
         flex-wrap: wrap;
         justify-content: space-around;
         align-items: center;
-        width: 25%;
+        width: 30%;
         height: 50px;
     }
 
     .item {
-        width: 15%;
+        width: 20%;
         height: 50px;
         list-style: none;
-        background-color: rgb(130, 90, 35);
     }
 
-    .item_02 {
-        width: 40%;
-        height: 50px;
-        list-style: none;
-        background-color: rgb(45, 80, 45);
-    }
-
+    .item_02,
     .item_03 {
         width: 40%;
         height: 50px;
         list-style: none;
-        background-color: Darkblue;
+    }
+
+    .item:hover,
+    .item_02:hover,
+    .item_03:hover {
+        background-color: rgb(130, 90, 35);
     }
 
     .anchor {
+        display: block;
         width: 100%;
         height: 50px;
         line-height: 50px;
+        text-align: center;
+        text-decoration: none;
+        font-size: 15px;
+        font-weight: 400;
+        color: White;
     }
 }
 
@@ -260,12 +273,12 @@
     }
 
     .box_search {
-        width: 75%;
+        width: 70%;
     }
 
     .menu {
         display: inline-block;
-        width: 75%;
+        width: 70%;
         height: 50px;
         margin: 0px;
         background-color: Darkseagreen;
@@ -295,34 +308,38 @@
         flex-wrap: wrap;
         justify-content: space-around;
         align-items: center;
-        width: 25%;
+        width: 30%;
         height: 50px;
     }
 
     .item {
-        width: 15%;
+        width: 20%;
         height: 50px;
         list-style: none;
-        background-color: rgb(130, 90, 35);
     }
 
-    .item_02 {
-        width: 40%;
-        height: 50px;
-        list-style: none;
-        background-color: rgb(45, 80, 45);
-    }
-
+    .item_02,
     .item_03 {
         width: 40%;
         height: 50px;
         list-style: none;
-        background-color: Darkblue;
+    }
+
+    .item:hover,
+    .item_02:hover,
+    .item_03:hover {
+        background-color: rgb(130, 90, 35);
     }
 
     .anchor {
+        display: block;
         width: 100%;
         height: 50px;
         line-height: 50px;
+        text-align: center;
+        text-decoration: none;
+        font-size: 15px;
+        font-weight: 400;
+        color: White;
     }
 }
