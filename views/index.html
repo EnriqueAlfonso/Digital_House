@@ -14,7 +14,7 @@
             rel="stylesheet"
         />
         <!-- Normalize. -->
-        <link rel="stylesheet" href="./css/normalize.css">
+        <link rel="stylesheet" href="./css/normalize.css" />
         <!-- Styles. -->
         <link rel="stylesheet" type="text/css" href="./css/index.css" />
         <link rel="stylesheet" type="text/css" href="./css/header.css" />
@@ -33,8 +33,16 @@
                     <div class="nav_right">
                         <div class="box_search">
                             <form action="#" method="post" class="form_search">
-                                <input type="search" name="found" id="found" class="search" />
-                                <i class="fa-solid fa-magnifying-glass"></i>
+                                <input
+                                    type="search"
+                                    name="found"
+                                    id="found"
+                                    placeholder="Buscar"
+                                    class="search"
+                                />
+                                <button type="submit" class="send">
+                                    <i class="fa-solid fa-magnifying-glass"></i>
+                                </button>
                             </form>
                         </div>
 
@@ -48,7 +56,9 @@
                         </ul>
 
                         <div class="menu">
-                            <div class="burguer"></div>
+                            <div class="burguer">
+                                <i class="fa-solid fa-bars"></i>
+                            </div>
 
                             <ul class="ul">
                                 <li class="item">
