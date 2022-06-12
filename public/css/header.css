@@ -2,13 +2,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
 }
 
 .header {
     width: 100%;
     height: 100px;
     background-color: White;
-    font-family: "Roboto", sans-serif;
 }
 
 .flex_01 {
@@ -48,6 +48,7 @@
     align-items: center;
     width: 50%;
     height: 100px;
+    background-color: White;
 }
 
 .imagen {
@@ -124,7 +125,6 @@
     padding: 5px;
     font-size: 30px;
     color: White;
-    border: 1px solid White;
 }
 
 .fa-bars:hover {

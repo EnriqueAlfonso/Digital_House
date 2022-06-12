@@ -17,26 +17,38 @@ app.use(express.static(path_public));
 
 app.get("/", indexController.print);
 
-app.get("/subscribe", (req, res) => {
-    let path_subscribe = path.resolve(__dirname, "./views/subscribe.html");
+app.get("/product", productController.print);
 
-    res.sendFile(path_subscribe);
+app.get("/subscribe", subscribeController.print);
+
+app.get("/login", loginController.print);
+
+app.get("/basket", basketController.print);
+
+/* ================================================================================================ */
+/* RUTAS PARAMETRIZADAS. */
+/* ================================================================================================ */
+
+app.get("/product/:id", (req, res) => {
+    let id_product = req.params.id;
+
+    res.send("Producto: " + id_product);
 });
 
-app.get("/login", (req, res) => {
-    let path_login = path.resolve(__dirname, "./views/login.html");
+app.get("/sports/:id_sport/:id_country/:id_team?", (req, res) => {
+    let id_sport = req.params.id_sport;
+    let id_country = req.params.id_country;
+    let id_team = req.params.id_team;
 
-    res.sendFile(path_login);
+    if (id_team == undefined) {
+        res.send("EQUIPO NO ELEGIDO.");
+    } else {
+        res.send("Deporte: " + id_sport + " || Pais: " + id_country + " || Equipo: " + id_team);
+    }
 });
 
-app.get("/product", (req, res) => {
-    let path_product = path.resolve(__dirname, "./views/product.html");
+app.get("/chacarita/:id_jugador?", (req, res) => {
+    let jugador = req.params.id_jugador || "NO ELEGISTE NINGUN JUGADOR";
 
-    res.sendFile(path_product);
-});
-
-app.get("/basket", (req, res) => {
-    let path_basket = path.resolve(__dirname, "./views/basket.html");
-
-    res.sendFile(path_basket);
+    res.send(jugador);
 });
