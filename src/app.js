@@ -1,35 +1,31 @@
+/* Modulos Nativos. */
 const fs = require("fs");
-const express = require("express");
-const app = express();
 const path = require("path");
-
 const path_public = path.resolve("../public");
 
-const indexController = require("./controllers/indexController");
-const productController = require("./controllers/productController");
-const subscribeController = require("./controllers/subscribeController");
-const loginController = require("./controllers/loginController");
-const basketController = require("./controllers/basketController");
+/* Modulos Instalados. */
+const express = require("express");
+const app = express();
 
+/* Modulos Personales. */
 const routes_index = require("./routes/index");
-const routes_subscribe = require("./routes/subscribe");
-const routes_login = require("./routes/login");
-const routes_product = require("./routes/product");
-const routes_basket = require("./routes/basket");
+const indexController = require("./controllers/indexController");
 
 app.listen(3000, console.log("Port: 3000"));
+
+/* Motor de Plantillas: EJS. */
+app.set("view engine", "ejs");
 
 app.use(express.static(path_public));
 
 app.use("/", routes_index);
+
+/* ================================================================================================ */
+/*
 app.use("/product", routes_product);
 app.use("/subscribe", routes_subscribe);
 app.use("/login", routes_login);
 app.use("/basket", routes_basket);
-
-/* ================================================================================================ */
-/*
-    RUTAS PARAMETRIZADAS.
 
     app.get();
     
