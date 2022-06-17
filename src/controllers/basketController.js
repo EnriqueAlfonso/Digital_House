@@ -2,9 +2,9 @@ const path = require('path');
 
 const basketController = {
     print : (req, res) => {
-        let path_basket = path.resolve(__dirname, "../views/basket.html");
+        let path_basket = path.resolve(__dirname, "../views/basket.ejs");
     
-        res.sendFile(path_basket);
+        res.render(path_basket);
     }
 }
 

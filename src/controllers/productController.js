@@ -2,9 +2,9 @@ const path = require("path");
 
 const productController = {
     print: (req, res) => {
-        let path_product = path.resolve(__dirname, "../views/product.html");
+        let path_product = path.resolve(__dirname, "../views/product.ejs");
 
-        res.sendFile(path_product);
+        res.render(path_product);
     },
 };
 

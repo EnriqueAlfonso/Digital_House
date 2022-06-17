@@ -2,9 +2,9 @@ const path = require('path');
 
 const loginController = {
     print : (req, res) => {
-        let path_login = path.resolve(__dirname, "../views/login.html");
+        let path_login = path.resolve(__dirname, "../views/login.ejs");
     
-        res.sendFile(path_login);
+        res.render(path_login);
     }
 };
 
