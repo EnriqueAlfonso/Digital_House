@@ -9,11 +9,13 @@ const routes_product = require("./product");
 const routes_basket = require("./basket");
 
 const indexController = require("../controllers/indexController");
+/*
 const productController = require("../controllers/productController");
 const subscribeController = require("../controllers/subscribeController");
 const loginController = require("../controllers/loginController");
 const basketController = require("../controllers/basketController");
-
+const teamController = require("../controllers/teamController");
+*/
 const router = express.Router();
 
 router.get("", indexController.print);

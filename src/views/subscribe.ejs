@@ -93,7 +93,20 @@
             </section>
         </header>
 
-        <main class="main border"></main>
+        <main class="main border">
+
+            <h1>Equipo de Rugby.</h1>
+            <!--
+            <% %>
+            -->
+
+            <% for (let i= 0; i < 15; i++) { %>
+                <p>
+                    Jugador: <%= (i + 1) %>
+                </p>
+            <% } %>
+
+        </main>
 
         <footer class="footer">
             <div class="last_01"></div>

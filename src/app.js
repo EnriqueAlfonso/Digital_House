@@ -12,19 +12,12 @@ const routes_index = require("./routes/index");
 const indexController = require("./controllers/indexController");
 
 app.listen(3000, console.log("Port: 3000"));
+app.use(express.static(path_public));
 
 /* Motor de Plantillas: EJS. */
 app.set("view engine", "ejs");
 
-app.use(express.static(path_public));
-
 app.use("/", routes_index);
-
-app.get("/sports", (req, res) => 
-{
-    let path_sports = path.resolve(__dirname, "./views/sports.html");
-    res.sendFile(path_sports);
-});
 
 /* ================================================================================================ */
 /*
