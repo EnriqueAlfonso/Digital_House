@@ -20,6 +20,12 @@ app.use(express.static(path_public));
 
 app.use("/", routes_index);
 
+app.get("/sports", (req, res) => 
+{
+    let path_sports = path.resolve(__dirname, "./views/sports.html");
+    res.sendFile(path_sports);
+});
+
 /* ================================================================================================ */
 /*
 app.use("/product", routes_product);
