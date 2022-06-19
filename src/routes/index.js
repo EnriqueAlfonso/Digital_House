@@ -7,6 +7,7 @@ const routes_subscribe = require("./subscribe");
 const routes_login = require("./login");
 const routes_product = require("./product");
 const routes_basket = require("./basket");
+const routes_team = require('./team');
 
 const indexController = require("../controllers/indexController");
 /*
@@ -24,5 +25,6 @@ router.use("/product", routes_product);
 router.use("/subscribe", routes_subscribe);
 router.use("/login", routes_login);
 router.use("/basket", routes_basket);
+router.use("/team", routes_team);
 
 module.exports = router;
